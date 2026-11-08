@@ -1,0 +1,8 @@
+{
+  "name": "Remix ymkiymki",
+  "description": "Imported from GitHub: mizukia059-maker/ymkiymki",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
